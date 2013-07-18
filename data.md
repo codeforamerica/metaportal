@@ -9,7 +9,7 @@ Portals
 
 Datasets
 - home portal
-- data type* (e.g. crime, parcels, restaurant inspections, traffic)
+- data type** (e.g. crime, parcels, restaurant inspections, traffic)
 - data "volume" - rows?
 - updated
 
@@ -17,4 +17,5 @@ Standards
 - code
 - description
 
-* How do you define whether a given data set meets a given type?
+
+**How do you define whether a given data set meets a given type?
