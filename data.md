@@ -9,13 +9,17 @@ Portals
 
 Datasets
 - home portal
-- data type** (e.g. crime, parcels, restaurant inspections, traffic)
-- data "volume" - rows?
-- updated
+- data type* (e.g. crime, parcels, restaurant inspections, traffic)
+- updated/ last version
 
 Standards
 - code
 - description
 
+Versions
+- dataset id
+- date collected
+- data "volume" - rows?
+- permalink
 
-**How do you define whether a given data set meets a given type?
+*How do you define whether a given data set meets a given type?
